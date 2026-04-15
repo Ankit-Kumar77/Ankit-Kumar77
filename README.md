@@ -1,6 +1,6 @@
 <div align="">
 <a href="https://github.com/unofficialZeus">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;ML+Enthusiast;DevOps Engineer;Problem+Solver;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;ML+Enthusiast;Problem+Solver;" alt="Typing SVG" />
 </a>
 
 # 💫 About Me:
