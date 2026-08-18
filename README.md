@@ -1,6 +1,4 @@
 <div align="">
-  <a href="https://linkedin.com/in/ankit-kumarrr"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" /></a> <a href="https://x.com/@unofficialZeus"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=64FFDA" /></a>
-    
 <a href="https://github.com/unofficialZeus">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;DevOps+Engineer;ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </a>
@@ -10,7 +8,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumarrr)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@unofficialZeus) 
 <a href="https://linkedin.com/in/ankit-kumarrr"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" /></a> <a href="https://x.com/@unofficialZeus"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=64FFDA" /></a>
 
 # 💻 Tech Stack:
