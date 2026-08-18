@@ -1,5 +1,7 @@
 <div align="">
   <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=64FFDA&center=true&vCenter=true&width=650&lines=Software+Engineer;SRE+%2F+DevOps;Full-Stack+Developer;AI%2FML+%2B+DSA+Enthusiast" alt="Typing SVG" /> <br/>
+
+  <a href="https://linkedin.com/in/ankit-kumarrr"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" /></a> <a href="https://x.com/@unofficialZeus"><img src="https://img.shields.io/badge/X-0A192F?style=for-the-badge&logo=x&logoColor=64FFDA" /></a>
     
 <a href="https://github.com/unofficialZeus">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DevOps+Engineer;ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
